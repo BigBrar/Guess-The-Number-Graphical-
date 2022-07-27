@@ -1,0 +1,3 @@
+# Guess-The-Number-Graphical-
+This is a simple Guess the number game i built with the help of tkinter. 
+The rules of the game are simple, your computer will choose a number from 1 to 100, and you just need to guess that number as fast as you can using you brain...
